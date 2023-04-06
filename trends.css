@@ -1,0 +1,162 @@
+
+.container-fluid{
+    background-color:#141c50;
+
+
+   
+    
+}
+.logo{
+    height: 3.75rem;
+    object-fit: contain;
+}
+.nav-bar{
+   
+}
+.wall{
+ 
+    background-color: aqua;
+    height:37.5rem ;
+    }
+.wall-img{
+    max-width: 100%;
+    height: auto;
+}
+#wall-id{
+    background: url("/wall.jpg");
+    background-position: center;
+    background-size: cover;
+    height: 37.5rem;
+    max-width: 100%;
+    overflow: hidden;
+    position: relative;
+    
+   
+
+}
+.img-fluid{
+    height: 10rem;
+    position: absolute;
+    bottom: 5vh;
+    width: 55%;
+    left: 20%;
+    
+    
+    
+    max-width: 100%;
+}
+.inner-wall-pic{
+    
+}
+.col-md-6{
+    
+    /* height: 31.25rem; */
+    
+    
+}
+.pic-wings{
+    height: 100%;
+    width: 100%;
+}
+#pic-two-planes{
+    height: 100%;
+    width: 100%;
+}
+.h1{
+/*     
+    line-height: 1rem;
+    font-size: 4px;
+    font-family: Roboto;
+    
+     */
+}
+.paragraph{
+
+    font-weight: 400;
+    color: gray;
+}
+.container{
+    margin-bottom: 1.5625rem;
+    margin-top: 1.5625rem;
+}
+#know-button{
+    background-color: #141c50;
+    
+}
+#know-anchor{
+   color: rgb(238, 208, 58);
+   text-decoration: none;
+}
+.know{
+    background-color: #141c50;
+    color: bisque;
+    text-decoration: none;
+}
+
+
+
+#join-us{
+    background-color: #141c50;
+    height: 22.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    
+    
+
+}
+#join-us-p{
+    
+    
+    color: white;
+    text-align: center;
+    padding: 0;
+    font-size: 1 rem;
+    font-weight: 300;
+    margin-top: 1.875rem;
+    /* margin-bottom: 1rem; */
+    max-width: 80%;
+
+    
+}
+#join-us-h{
+    text-align: center;
+    color:yellow;
+   
+
+}
+#footer-cont{
+    background-color: #111111; height:550px; width:100%;
+}
+#upper-cont{
+margin-bottom: 1rem;
+}
+#footer-rights{
+   /* text-align: center; */
+   margin-top: .625rem;
+   margin-bottom: 2.5rem;
+}
+
+.nav-tab:hover{
+    color:rgb(255, 217, 4) !important;
+}
+.nav-tab{
+    display: inline-block;
+}
+.navbar-toggler{
+    color: white;
+}
+.back-to-top{
+    padding: 10px;
+    background-color: #FECB00;
+    border-radius: 5px;
+    position: fixed;
+    right: 15px;
+   bottom: 15px;
+}
+.arrow-down{
+    background-color: #f1c205;
+    width: 50px;
+    height: 50px;
+}
